@@ -1,0 +1,16 @@
+[
+  {
+    "_id": { "$oid": "67ac2a39a73eba9e8e00e885" },
+    "scholarshipId": "SCH123",
+    "student": { "$oid": "67ac2a39a73eba9e8e00e886" },
+    "statement": "I am very passionate about education and need this scholarship.",
+    "status": "pending"
+  },
+  {
+    "_id": { "$oid": "67ac2a39a73eba9e8e00e887" },
+    "scholarshipId": "SCH456",
+    "student": { "$oid": "67ac2a39a73eba9e8e00e888" },
+    "statement": "This scholarship will help me achieve my dreams.",
+    "status": "approved"
+  }
+]
